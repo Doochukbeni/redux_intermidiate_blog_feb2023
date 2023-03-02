@@ -44,3 +44,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<!-- THIS IS AN INCOMPLETE ADVANCE REDUX LEARNING BLOG PROJECT WHICH NEEDS SOME EXTRA FEATURES WHICH I AM YET TO DEVELOP. -->
+
+THIS PURPOSE IS TO HANDLE USERS AUTHENTICATION AND MANAGE STATE EFFECTIVELY. THIS IS PART TWO OF THE BLOG PROJECT USING, THE SERVER IS POWERED BY NODEJS AND USES EXPRESS, JWT FOR AUTHENTICATION, SQL FOR DATABASE
